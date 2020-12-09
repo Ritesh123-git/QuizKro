@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "413333739928",
+    "firebase_url": "https://quizkro-2f849.firebaseio.com",
+    "project_id": "quizkro-2f849",
+    "storage_bucket": "quizkro-2f849.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413333739928:android:e27e2fbc0bfbb17cb2f3ed",
+        "android_client_info": {
+          "package_name": "com.example.quizkro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413333739928-u4dvo9sff24kl41t3n35sb21u4qfecdg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIzy50XuNVwXbjU_MX8N_fZFSvMB05zMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413333739928-u4dvo9sff24kl41t3n35sb21u4qfecdg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
